@@ -68,14 +68,10 @@ section {
 }
 @media screen and (min-width: 768px) {
   .container {
-    max-width: 768px;
-  }
-}
-@media screen and (min-width: 991px) {
-  .container {
     max-width: 1158px;
   }
 }
+
 h1 {
   font-size: 2rem;
   display: flex;
